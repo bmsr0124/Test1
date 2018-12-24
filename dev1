@@ -1,0 +1,3 @@
+mkdir dev11
+cd mkdir/
+touch dev1 dev2 dev3 
